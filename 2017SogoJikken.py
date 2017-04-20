@@ -22,13 +22,13 @@
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/PLIlive_dataJ.txt" target="_blank">「新国民生活指標データ」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/sake_dataJ.txt" target="_blank">「都道府県別アルコール類の消費量」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/sbnote_dataJt.txt" target="_blank">「スイス銀行紙幣データ」</a>
-# * 「ワインの品質」（<a href="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv" target="_blank">赤</a>・<a href="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv" target="_blank">白</a>）
+# * 「ワインの品質」（<a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/winequality-red.csv" target="_blank">赤</a>・<a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/winequality-white.csv" target="_blank">白</a>）
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/iris.txt" target="_blank">「あやめのデータ」</a>
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data" target="_blank">「あわびのデータ」</a>
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/abalone.data" target="_blank">「あわびのデータ」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/pima-indians-diabetes.txt" target="_blank">「ピマ・インディアンの糖尿病診断」</a>
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/ecoli/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/yeast/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>
 
 # ## 本実習で収集するデータ
 # 本実習では、データ収集から体験してもらうために、匿名アンケートを実施します。あまり深く考えず、短時間で気軽にパパッと回答してください。
@@ -110,11 +110,11 @@
 
 # # 課題
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/icecream_chosa.txt" target="_blank">「好きなアイスクリームアンケート」</a> を用いて、アイスクリームの好みから性別(gender)を予測できるか。
-# * 「ワインの品質」（<a href="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv" target="_blank">赤</a>・<a href="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv" target="_blank">白</a>）を用いて、測定データからワインの品質(quality)を言い当てることができるか。
+# * 「ワインの品質」（<a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/winequality-red.csv" target="_blank">赤</a>・<a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/winequality-white.csv" target="_blank">白</a>）を用いて、測定データからワインの品質(quality)を言い当てることができるか。
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/pima-indians-diabetes.txt" target="_blank">「ピマ・インディアンの糖尿病診断」</a>を用いて、測定データから糖尿病か否かを診断できるか。
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>を用いて、測定データからパーキンソン病か否かを診断できるか。
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/ecoli/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか予測できるか。
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/yeast/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか予測できるか。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>を用いて、測定データからパーキンソン病か否かを診断できるか。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか予測できるか。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか予測できるか。
 # * 学生実験用アンケートを用いて、いろんなパラメータからその学生のリア充度を予測できるか。
 # 
 # （<a href="DataForPractice2017.ipynb" target="_blank">詳細</a>）以上の中から２つ以上を選び、それぞれデータの可視化と機械学習を用いながら解析し、結果を考察してください。
