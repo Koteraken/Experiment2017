@@ -56,7 +56,7 @@
 # ### Step 1. まずは、ウォーミングアップから
 # まずは次のリンクをクリックして、Pythonで簡単な計算をしてみましょう。
 # 
-# * <a href="http://nbviewer.jupyter.org/github/maskot1977/ipython_notebook/blob/master/Python%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%AF%E3%82%99%E3%82%A2%E3%83%83%E3%83%95%E3%82%9A.ipynb" target="_blank">まずは、ウォーミングアップから</a>
+# * <a href="PythonWarmup.ipynb" target="_blank">まずは、ウォーミングアップから</a>
 
 # ### Step 2. ライブラリのインポート、乱数、そしてMatplotlibによる描画
 # Pythonでは、皆がよく使う関数などをライブラリとしてまとめてあり、それをインポートして使います。乱数のライブラリの使い方や、ヒストグラムなどのグラフの描画の仕方を体験してみましょう。
@@ -113,7 +113,6 @@
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/sbnote_dataJt.txt" target="_blank">「スイス銀行紙幣データ」</a>
 # * 「ワインの品質」（<a href="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv" target="_blank">赤</a>・<a href="http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv" target="_blank">白</a>）
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/iris.txt" target="_blank">「あやめのデータ」</a>
-# * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/abalone/abalone.data" target="_blank">「あわびのデータ」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/pima-indians-diabetes.txt" target="_blank">「ピマ・インディアンの糖尿病診断」</a>
 # * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>
 # * <a href="http://archive.ics.uci.edu/ml/machine-learning-databases/ecoli/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>
