@@ -102,6 +102,7 @@
 # 「教師あり学習」（Supervised Learning）というものもありますが、それはまた次の機会に、、、
 
 # # 課題
+# 
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/airquality.txt" target="_blank">「ニューヨークの大気状態観測値」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/USArrests.txt" target="_blank">「合州国の州別暴力犯罪率」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/sports_dataJt.txt" target="_blank">「スポーツテストデータ」</a>
