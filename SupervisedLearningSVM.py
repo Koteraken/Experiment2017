@@ -74,13 +74,13 @@ plt.show()
 # 上図から、なんとなく２つのグループに分かれそうだということが分かりますね。そのグループは、真札・偽札の違いと対応しているのでしょうか？それを確認するため、カラーコードを用いて、"class"に基づいて散布図行列を色分けします。
 # * カラーコードが分からない人は右記リンク参照→ [カラーコード表](http://www5.plala.or.jp/vaio0630/hp/c_code.htm)・[カラーコード](http://www.finitojapan.com/cltable.html)
 
-# In[9]:
+# In[10]:
 
 # 色分けした散布図行列
 color_codes = ["#FF0000", "#0000FF", "#00FF00"]
 class_names = list(set(df.iloc[:, -1]))
 colors = [color_codes[class_names.index(x)] for x in list(df.iloc[:, -1])]
-plotting.scatter_matrix(df[list(df.columns[:6])], figsize=(10, 10), color=colors) 
+plotting.scatter_matrix(df[list(df.columns[:6])], figsize=(10, 10), c=colors) 
 plt.show()
 
 
