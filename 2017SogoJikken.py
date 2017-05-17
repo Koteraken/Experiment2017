@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # # 2017年総合実験
+# <h2><a href="https://tinyurl.com/2017SogoJikken" target="_blank">https://tinyurl.com/2017SogoJikken</a>
+# 
 # ## Jupyter Notebook を使った大規模データの可視化と機械学習
 # 
 # 本実験では、Jupyter Notebook を使って大規模データの可視化と機械学習を行います。本実験では、生物学実験で得られたものではないデータも多く取り扱いますが、数値データを可視化し俯瞰することは解析の基礎であり、どのようなデータであれ非常に大切なことです。

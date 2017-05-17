@@ -2,6 +2,8 @@
 # coding: utf-8
 
 # # 2017年基礎実験
+# <h2><a href="https://tinyurl.com/2017KisoJikken" target="_blank">https://tinyurl.com/2017KisoJikken</a></h2>
+# 
 # ## Jupyter Notebook を使った大規模データの可視化
 # 
 # 本実験では、Jupyter Notebook を使って大規模データの可視化を行います。本実験では、生物学実験で得られたものではないデータも多く取り扱いますが、数値データを可視化し俯瞰することは解析の基礎であり、どのようなデータであれ非常に大切なことです。
