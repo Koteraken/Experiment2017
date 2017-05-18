@@ -116,7 +116,7 @@
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>
 # * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>
-# * 学生実験用アンケート結果
+# * <a href="https://docs.google.com/spreadsheets/d/1u50kS8Ztmgjjs--S1AM4753quL3QEPRR7xIGjCxcSCw/edit#gid=941271295" target="_target">学生実験用アンケート結果</a>
 # 
 # 以上のデータ（<a href="DataForPractice2017.ipynb" target="_blank">詳細</a>）の中から３つ以上を選び、それぞれデータの可視化と機械学習を用いながら解析し、結果を考察してください。
 # 

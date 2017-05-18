@@ -109,12 +109,12 @@
 # </ul>
 
 # # 課題
-# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/icecream_chosa.txt" target="_blank">「好きなアイスクリームアンケート」</a> を用いて、アイスクリームの好みから性別(gender)を予測できるか。
-# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/pima-indians-diabetes.txt" target="_blank">「ピマ・インディアンの糖尿病診断」</a>を用いて、測定データから糖尿病か否かを診断できるか。
-# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>を用いて、測定データからパーキンソン病か否かを診断できるか。
-# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか予測できるか。
-# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか予測できるか。
-# * 学生実験用アンケートを用いて、いろんなパラメータからその学生のリア充度を予測できるか。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/icecream_chosa.txt" target="_blank">「好きなアイスクリームアンケート」</a> を用いて、アイスクリームの好みから性別(gender)などを判別。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/pima-indians-diabetes.txt" target="_blank">「ピマ・インディアンの糖尿病診断」</a>を用いて、測定データから糖尿病か否かを判別。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/parkinsons.data" target="_blank">「パーキンソン病診断データ」</a>を用いて、測定データからパーキンソン病か否かを判別。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/ecoli.data" target="_blank">「大腸菌タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか判別。
+# * <a href="https://raw.githubusercontent.com/maskot1977/ipython_notebook/master/toydata/yeast.data" target="_blank">「酵母タンパク質の細胞内局在」</a>を用いて、いくつかのパラメータからそのタンパク質がどこに局在するか判別。
+# * <a href="https://docs.google.com/spreadsheets/d/1u50kS8Ztmgjjs--S1AM4753quL3QEPRR7xIGjCxcSCw/edit#gid=941271295" target="_target">学生実験用アンケート</a>を用いて、いろんなパラメータからその学生のリア充度や、彼氏彼女の有無などを判別。
 # 
 # （<a href="DataForPractice2017.ipynb" target="_blank">詳細</a>）以上の中から２つ以上を選び、それぞれデータの可視化と機械学習を用いながら解析し、結果を考察してください。
 # 
